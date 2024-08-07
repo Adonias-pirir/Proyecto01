@@ -8,6 +8,8 @@ import java.util.Scanner;
 public class promedio {
 	
 	/**
+    *Realizando cambios
+    * 
 	*Método principal de la clase Promedio que se encarga de 
 	*calcular el promedio de 4 exámenes.
 	*@param args que representan un listado de valores
