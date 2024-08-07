@@ -20,6 +20,7 @@ public class promedio {
 		public static void main(String [] args){
 			
 			//Se declara la variable scan para leer datos de una linea de comandos.
+            //Se realiza actualizacion2 - 2:44pm
             Scanner scanner = new Scanner(System.in);
                 //Se declara el tipo de dato float al obtener una entrada o salida con número decimal
                 //Entradas
