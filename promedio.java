@@ -23,6 +23,9 @@ public class promedio {
             //Se realiza actualizacion2 - 2:44pm
             Scanner scanner = new Scanner(System.in);
                 //Se declara el tipo de dato float al obtener una entrada o salida con número decimal
+				//
+				//Se realiza final
+				//
                 //Entradas
                 System.out.println("Ingrese calificacion 1");		
                 float A = scanner.nextFloat();
