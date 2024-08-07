@@ -9,6 +9,7 @@ public class promedio {
 	
 	/**
     *Realizando cambios
+    * Actualización 1 - 2:08 pm
     * 
 	*Método principal de la clase Promedio que se encarga de 
 	*calcular el promedio de 4 exámenes.
